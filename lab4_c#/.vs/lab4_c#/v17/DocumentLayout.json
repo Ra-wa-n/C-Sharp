@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|c:\\users\\infotech\\source\\repos\\lab4_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|c:\\users\\infotech\\source\\repos\\lab4_c#\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|solutionrelative:checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|c:\\users\\infotech\\source\\repos\\lab4_c#\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|solutionrelative:savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|c:\\users\\infotech\\source\\repos\\lab4_c#\\itransactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|solutionrelative:itransactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|c:\\users\\infotech\\source\\repos\\lab4_c#\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|solutionrelative:account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|c:\\users\\infotech\\source\\repos\\lab4_c#\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|solutionrelative:iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|c:\\users\\infotech\\source\\repos\\lab4_c#\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|c:\\users\\infotech\\source\\repos\\lab4_c#\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|solutionrelative:robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|c:\\users\\infotech\\source\\repos\\lab4_c#\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|c:\\users\\infotech\\source\\repos\\lab4_c#\\ichargeable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|solutionrelative:ichargeable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|c:\\users\\infotech\\source\\repos\\lab4_c#\\imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|solutionrelative:imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|c:\\users\\infotech\\source\\repos\\lab4_c#\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|solutionrelative:bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|c:\\users\\infotech\\source\\repos\\lab4_c#\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|solutionrelative:cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|c:\\users\\infotech\\source\\repos\\lab4_c#\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|solutionrelative:dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|c:\\users\\infotech\\source\\repos\\lab4_c#\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|c:\\users\\infotech\\source\\repos\\lab4_c#\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|solutionrelative:manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|c:\\users\\infotech\\source\\repos\\lab4_c#\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|solutionrelative:triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|c:\\users\\infotech\\source\\repos\\lab4_c#\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|solutionrelative:rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|c:\\users\\infotech\\source\\repos\\lab4_c#\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|solutionrelative:circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|c:\\users\\infotech\\source\\repos\\lab4_c#\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|solutionrelative:shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|c:\\users\\infotech\\source\\repos\\lab4_c#\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|solutionrelative:developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|c:\\users\\infotech\\source\\repos\\lab4_c#\\intern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|solutionrelative:intern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|c:\\users\\infotech\\source\\repos\\lab4_c#\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|c:\\users\\infotech\\source\\repos\\lab4_c#\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|solutionrelative:counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|c:\\users\\infotech\\source\\repos\\lab4_c#\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F62956-DE71-401B-B766-17EB78A24882}|lab4_c#.csproj|solutionrelative:date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheckingAccount.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\CheckingAccount.cs",
+              "RelativeDocumentMoniker": "CheckingAccount.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\CheckingAccount.cs*",
+              "RelativeToolTip": "CheckingAccount.cs*",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvycAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T16:48:32.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\SavingsAccount.cs",
+              "RelativeToolTip": "SavingsAccount.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T16:32:53.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\Account.cs",
+              "RelativeDocumentMoniker": "Account.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\Account.cs",
+              "RelativeToolTip": "Account.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T16:28:23.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITransactable.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\ITransactable.cs",
+              "RelativeDocumentMoniker": "ITransactable.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\ITransactable.cs",
+              "RelativeToolTip": "ITransactable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T16:26:17.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPrintable.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\IPrintable.cs",
+              "RelativeDocumentMoniker": "IPrintable.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\IPrintable.cs",
+              "RelativeToolTip": "IPrintable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T16:25:52.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwD8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T14:45:26.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T16:10:45.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\Robot.cs",
+              "RelativeDocumentMoniker": "Robot.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\Robot.cs",
+              "RelativeToolTip": "Robot.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T16:06:20.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvwoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T16:04:29.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IChargeable.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\IChargeable.cs",
+              "RelativeDocumentMoniker": "IChargeable.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\IChargeable.cs",
+              "RelativeToolTip": "IChargeable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T16:04:00.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IMovable.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\IMovable.cs",
+              "RelativeDocumentMoniker": "IMovable.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\IMovable.cs",
+              "RelativeToolTip": "IMovable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T16:01:41.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\Bird.cs",
+              "RelativeDocumentMoniker": "Bird.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\Bird.cs",
+              "RelativeToolTip": "Bird.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T15:57:52.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\Cat.cs",
+              "RelativeDocumentMoniker": "Cat.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\Cat.cs",
+              "RelativeToolTip": "Cat.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T15:57:10.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\Dog.cs",
+              "RelativeDocumentMoniker": "Dog.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\Dog.cs",
+              "RelativeToolTip": "Dog.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T15:56:18.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\Animal.cs",
+              "RelativeDocumentMoniker": "Animal.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\Animal.cs",
+              "RelativeToolTip": "Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T15:53:38.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Rectangle.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\Rectangle.cs",
+              "RelativeToolTip": "Rectangle.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T15:45:09.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\Circle.cs",
+              "RelativeDocumentMoniker": "Circle.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\Circle.cs",
+              "RelativeToolTip": "Circle.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T15:40:01.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\Shape.cs",
+              "RelativeDocumentMoniker": "Shape.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\Shape.cs",
+              "RelativeToolTip": "Shape.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T15:37:59.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\Triangle.cs",
+              "RelativeDocumentMoniker": "Triangle.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\Triangle.cs",
+              "RelativeToolTip": "Triangle.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T15:47:21.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Developer.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\Developer.cs",
+              "RelativeDocumentMoniker": "Developer.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\Developer.cs",
+              "RelativeToolTip": "Developer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T15:26:05.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\Manager.cs",
+              "RelativeDocumentMoniker": "Manager.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\Manager.cs",
+              "RelativeToolTip": "Manager.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBcAAACjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T15:11:52.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Intern.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\Intern.cs",
+              "RelativeDocumentMoniker": "Intern.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\Intern.cs",
+              "RelativeToolTip": "Intern.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T15:30:47.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wBcAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T15:04:40.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Counter.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\Counter.cs",
+              "RelativeDocumentMoniker": "Counter.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\Counter.cs",
+              "RelativeToolTip": "Counter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T14:57:01.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Date.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\Date.cs",
+              "RelativeDocumentMoniker": "Date.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\lab4_c#\\Date.cs",
+              "RelativeToolTip": "Date.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T14:46:56.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

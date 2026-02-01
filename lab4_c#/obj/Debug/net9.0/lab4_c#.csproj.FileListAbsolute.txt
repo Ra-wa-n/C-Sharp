@@ -1,0 +1,14 @@
+C:\Users\infotech\source\repos\lab4_c#\bin\Debug\net9.0\lab4_c#.exe
+C:\Users\infotech\source\repos\lab4_c#\bin\Debug\net9.0\lab4_c#.deps.json
+C:\Users\infotech\source\repos\lab4_c#\bin\Debug\net9.0\lab4_c#.runtimeconfig.json
+C:\Users\infotech\source\repos\lab4_c#\bin\Debug\net9.0\lab4_c#.dll
+C:\Users\infotech\source\repos\lab4_c#\bin\Debug\net9.0\lab4_c#.pdb
+C:\Users\infotech\source\repos\lab4_c#\obj\Debug\net9.0\lab4_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\infotech\source\repos\lab4_c#\obj\Debug\net9.0\lab4_c#.AssemblyInfoInputs.cache
+C:\Users\infotech\source\repos\lab4_c#\obj\Debug\net9.0\lab4_c#.AssemblyInfo.cs
+C:\Users\infotech\source\repos\lab4_c#\obj\Debug\net9.0\lab4_c#.csproj.CoreCompileInputs.cache
+C:\Users\infotech\source\repos\lab4_c#\obj\Debug\net9.0\lab4_c#.dll
+C:\Users\infotech\source\repos\lab4_c#\obj\Debug\net9.0\refint\lab4_c#.dll
+C:\Users\infotech\source\repos\lab4_c#\obj\Debug\net9.0\lab4_c#.pdb
+C:\Users\infotech\source\repos\lab4_c#\obj\Debug\net9.0\lab4_c#.genruntimeconfig.cache
+C:\Users\infotech\source\repos\lab4_c#\obj\Debug\net9.0\ref\lab4_c#.dll
