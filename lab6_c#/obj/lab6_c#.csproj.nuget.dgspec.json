@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\infotech\\source\\repos\\lab6_c#\\lab6_c#.csproj": {}
+    "C:\\Users\\infotech\\OneDrive\\Documents\\GitHub\\C-Sharp\\lab6_c#\\lab6_c#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\infotech\\source\\repos\\lab6_c#\\lab6_c#.csproj": {
+    "C:\\Users\\infotech\\OneDrive\\Documents\\GitHub\\C-Sharp\\lab6_c#\\lab6_c#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\infotech\\source\\repos\\lab6_c#\\lab6_c#.csproj",
+        "projectUniqueName": "C:\\Users\\infotech\\OneDrive\\Documents\\GitHub\\C-Sharp\\lab6_c#\\lab6_c#.csproj",
         "projectName": "lab6_c#",
-        "projectPath": "C:\\Users\\infotech\\source\\repos\\lab6_c#\\lab6_c#.csproj",
+        "projectPath": "C:\\Users\\infotech\\OneDrive\\Documents\\GitHub\\C-Sharp\\lab6_c#\\lab6_c#.csproj",
         "packagesPath": "C:\\Users\\infotech\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\infotech\\source\\repos\\lab6_c#\\obj\\",
+        "outputPath": "C:\\Users\\infotech\\OneDrive\\Documents\\GitHub\\C-Sharp\\lab6_c#\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

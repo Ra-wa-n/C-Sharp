@@ -5,6 +5,7 @@ namespace lab6_c_
     internal class Program
     {
        public delegate void Messege();
+        public delegate bool IntFilter(int x);
         static void Main(string[] args)
         {
             //task 1
@@ -21,7 +22,7 @@ namespace lab6_c_
             ms1 -= sendmessege;
             // task 3
             int[] array = { 1, 3, 6, 7, 9, 4, 6 };
-            List<int> list = Filter(array, a => a > 1);
+            List<int> list = FilterArray(array, a => a > 1);
             foreach (int i in list)
             {
                 Console.WriteLine(i);
@@ -94,6 +95,18 @@ namespace lab6_c_
                     tem.Add(i);
             }
             return tem;
+        }
+        public static List<int> FilterArray(int[] array , IntFilter filter)
+        {
+            List<int> list = new List<int>();
+            for(int i = 0; i < array.Length; i++)
+            {
+                if (filter(array[i]))
+                {
+                    list.Add(array[i]);
+                }
+            }
+            return list;
         }
         public static void print(int x, Messege ms)
         {

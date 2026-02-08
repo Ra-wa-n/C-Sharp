@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\infotech\\source\\repos\\lab6_c#\\",
+  "WorkspaceRootPath": "C:\\Users\\infotech\\OneDrive\\Documents\\GitHub\\C-Sharp\\lab6_c#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A856B231-93F4-41D5-B8DF-B56CDF58570C}|lab6_c#.csproj|c:\\users\\infotech\\source\\repos\\lab6_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A856B231-93F4-41D5-B8DF-B56CDF58570C}|lab6_c#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A856B231-93F4-41D5-B8DF-B56CDF58570C}|lab6_c#.csproj|c:\\users\\infotech\\source\\repos\\lab6_c#\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A856B231-93F4-41D5-B8DF-B56CDF58570C}|lab6_c#.csproj|c:\\users\\infotech\\onedrive\\documents\\github\\c-sharp\\lab6_c#\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A856B231-93F4-41D5-B8DF-B56CDF58570C}|lab6_c#.csproj|solutionrelative:form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A856B231-93F4-41D5-B8DF-B56CDF58570C}|lab6_c#.csproj|c:\\users\\infotech\\source\\repos\\lab6_c#\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A856B231-93F4-41D5-B8DF-B56CDF58570C}|lab6_c#.csproj|c:\\users\\infotech\\onedrive\\documents\\github\\c-sharp\\lab6_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A856B231-93F4-41D5-B8DF-B56CDF58570C}|lab6_c#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A856B231-93F4-41D5-B8DF-B56CDF58570C}|lab6_c#.csproj|c:\\users\\infotech\\onedrive\\documents\\github\\c-sharp\\lab6_c#\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A856B231-93F4-41D5-B8DF-B56CDF58570C}|lab6_c#.csproj|solutionrelative:button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A856B231-93F4-41D5-B8DF-B56CDF58570C}|lab6_c#.csproj|c:\\users\\infotech\\source\\repos\\lab6_c#\\temperaturesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A856B231-93F4-41D5-B8DF-B56CDF58570C}|lab6_c#.csproj|c:\\users\\infotech\\onedrive\\documents\\github\\c-sharp\\lab6_c#\\temperaturesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A856B231-93F4-41D5-B8DF-B56CDF58570C}|lab6_c#.csproj|solutionrelative:temperaturesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A856B231-93F4-41D5-B8DF-B56CDF58570C}|lab6_c#.csproj|c:\\users\\infotech\\source\\repos\\lab6_c#\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A856B231-93F4-41D5-B8DF-B56CDF58570C}|lab6_c#.csproj|c:\\users\\infotech\\onedrive\\documents\\github\\c-sharp\\lab6_c#\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A856B231-93F4-41D5-B8DF-B56CDF58570C}|lab6_c#.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,15 +30,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form.cs",
-              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\lab6_c#\\Form.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\OneDrive\\Documents\\GitHub\\C-Sharp\\lab6_c#\\Form.cs",
               "RelativeDocumentMoniker": "Form.cs",
-              "ToolTip": "C:\\Users\\infotech\\source\\repos\\lab6_c#\\Form.cs",
+              "ToolTip": "C:\\Users\\infotech\\OneDrive\\Documents\\GitHub\\C-Sharp\\lab6_c#\\Form.cs",
               "RelativeToolTip": "Form.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAkwBUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -49,35 +49,33 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Button.cs",
-              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\lab6_c#\\Button.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\OneDrive\\Documents\\GitHub\\C-Sharp\\lab6_c#\\Button.cs",
               "RelativeDocumentMoniker": "Button.cs",
-              "ToolTip": "C:\\Users\\infotech\\source\\repos\\lab6_c#\\Button.cs",
+              "ToolTip": "C:\\Users\\infotech\\OneDrive\\Documents\\GitHub\\C-Sharp\\lab6_c#\\Button.cs",
               "RelativeToolTip": "Button.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T13:49:39.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-06T13:49:39.572Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "TemperatureSensor.cs",
-              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\lab6_c#\\TemperatureSensor.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\OneDrive\\Documents\\GitHub\\C-Sharp\\lab6_c#\\TemperatureSensor.cs",
               "RelativeDocumentMoniker": "TemperatureSensor.cs",
-              "ToolTip": "C:\\Users\\infotech\\source\\repos\\lab6_c#\\TemperatureSensor.cs",
+              "ToolTip": "C:\\Users\\infotech\\OneDrive\\Documents\\GitHub\\C-Sharp\\lab6_c#\\TemperatureSensor.cs",
               "RelativeToolTip": "TemperatureSensor.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T13:26:56.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-06T13:26:56.93Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\lab6_c#\\Person.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\OneDrive\\Documents\\GitHub\\C-Sharp\\lab6_c#\\Person.cs",
               "RelativeDocumentMoniker": "Person.cs",
-              "ToolTip": "C:\\Users\\infotech\\source\\repos\\lab6_c#\\Person.cs",
+              "ToolTip": "C:\\Users\\infotech\\OneDrive\\Documents\\GitHub\\C-Sharp\\lab6_c#\\Person.cs",
               "RelativeToolTip": "Person.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAjwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -85,13 +83,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\lab6_c#\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\OneDrive\\Documents\\GitHub\\C-Sharp\\lab6_c#\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\infotech\\source\\repos\\lab6_c#\\Program.cs",
+              "ToolTip": "C:\\Users\\infotech\\OneDrive\\Documents\\GitHub\\C-Sharp\\lab6_c#\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwBsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-05T11:02:51.963Z",
               "EditorCaption": ""

@@ -1,0 +1,16 @@
+C:\Users\infotech\source\repos\lab7_winforms\bin\Debug\net9.0-windows\lab7_winforms.exe
+C:\Users\infotech\source\repos\lab7_winforms\bin\Debug\net9.0-windows\lab7_winforms.deps.json
+C:\Users\infotech\source\repos\lab7_winforms\bin\Debug\net9.0-windows\lab7_winforms.runtimeconfig.json
+C:\Users\infotech\source\repos\lab7_winforms\bin\Debug\net9.0-windows\lab7_winforms.dll
+C:\Users\infotech\source\repos\lab7_winforms\bin\Debug\net9.0-windows\lab7_winforms.pdb
+C:\Users\infotech\source\repos\lab7_winforms\obj\Debug\net9.0-windows\lab7_winforms.Form1.resources
+C:\Users\infotech\source\repos\lab7_winforms\obj\Debug\net9.0-windows\lab7_winforms.csproj.GenerateResource.cache
+C:\Users\infotech\source\repos\lab7_winforms\obj\Debug\net9.0-windows\lab7_winforms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\infotech\source\repos\lab7_winforms\obj\Debug\net9.0-windows\lab7_winforms.AssemblyInfoInputs.cache
+C:\Users\infotech\source\repos\lab7_winforms\obj\Debug\net9.0-windows\lab7_winforms.AssemblyInfo.cs
+C:\Users\infotech\source\repos\lab7_winforms\obj\Debug\net9.0-windows\lab7_winforms.csproj.CoreCompileInputs.cache
+C:\Users\infotech\source\repos\lab7_winforms\obj\Debug\net9.0-windows\lab7_winforms.dll
+C:\Users\infotech\source\repos\lab7_winforms\obj\Debug\net9.0-windows\refint\lab7_winforms.dll
+C:\Users\infotech\source\repos\lab7_winforms\obj\Debug\net9.0-windows\lab7_winforms.pdb
+C:\Users\infotech\source\repos\lab7_winforms\obj\Debug\net9.0-windows\lab7_winforms.genruntimeconfig.cache
+C:\Users\infotech\source\repos\lab7_winforms\obj\Debug\net9.0-windows\ref\lab7_winforms.dll
